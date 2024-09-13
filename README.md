@@ -1,9 +1,9 @@
 # MBSD-chatbot
 
-# Step by Step procedure
+## Step by Step Procedure
 
-# First Create a conda environement
+### 1. Create a Conda Environment
 
-'''bash
-
+```bash
+conda create --name myenv python=<version> -y
 '''
